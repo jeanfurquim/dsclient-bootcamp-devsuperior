@@ -1,0 +1,14 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jean Furquim', '12345678901', 6500.0, TIMESTAMP WITH TIME ZONE '1980-03-27T20:59:19Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Camila Furquim', '12435678901',6000.0, TIMESTAMP WITH TIME ZONE '1983-01-20T21:59:19Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Isabella Dias', '21345678901',2000.0, TIMESTAMP WITH TIME ZONE '2000-07-20T14:21:36Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joao Pedro', '12345678910', 1000.0,TIMESTAMP WITH TIME ZONE '2017-07-21T14:30:19Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Acir Furquim', '12348878901', 4000.0,TIMESTAMP WITH TIME ZONE '1953-06-21T22:59:19Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Denise Furquim', '12345328901', 5500.0,TIMESTAMP WITH TIME ZONE '1958-09-26T16:19:19Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jimmi Furquim', '12345663901', 3500.0,TIMESTAMP WITH TIME ZONE '1981-09-18T23:49:19Z',1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jessica Furquim', '12347478901', 5200.0,TIMESTAMP WITH TIME ZONE '1988-06-15T23:11:19Z',3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alexia Sophie', '12345678471', 800.0,TIMESTAMP WITH TIME ZONE '2005-01-27T09:12:19Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Laura Cristina', '12341178901', 300.0,TIMESTAMP WITH TIME ZONE '2012-02-16T05:49:19Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sara Eloise', '12345674701', 600.0,TIMESTAMP WITH TIME ZONE '2009-03-26T15:00:19Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Orli Basco', '00345678901', 2500.0,TIMESTAMP WITH TIME ZONE '1968-12-14T20:00:19Z',2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Paulo Santos', '88345678901', 12000.0,TIMESTAMP WITH TIME ZONE '1963-05-01T08:19:19Z',0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rogerio Bovo', '77345678901', 5800.0,TIMESTAMP WITH TIME ZONE '1984-12-28T11:59:19Z',2);
